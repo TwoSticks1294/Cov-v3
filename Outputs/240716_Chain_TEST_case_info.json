@@ -1,0 +1,54 @@
+{
+    "output_name_base": "240716_Chain_TEST",
+    "assays": "Targets/targets_Chain_LAMP.csv",
+    "alignments": "Alignments/Subtypes_Pol_TEST.csv",
+    "rosalind_threshold": 3,
+    "testing": true,
+    "globalAnalysis": false,
+    "primer_order_check": true,
+    "primer_proximity_check": true,
+    "proximity_max_footprint": 500,
+    "na_concentration": 60,
+    "primer_concentration": 1000,
+    "mg_concentration": 8,
+    "dntp_concentration": 1.4,
+    "corrected_mg_concentration": 6.6,
+    "expected_orders": [
+        [
+            "F2",
+            "FL",
+            "F1",
+            "B1",
+            "BL",
+            "B2"
+        ],
+        [
+            "F3",
+            "F2",
+            "FL",
+            "F1",
+            "B1",
+            "BL",
+            "B2",
+            "B3"
+        ],
+        [
+            "F3",
+            "F2",
+            "FL",
+            "F1",
+            "B1",
+            "B2",
+            "B3"
+        ],
+        [
+            "FP",
+            "Probe",
+            "RP"
+        ],
+        [
+            "FP",
+            "RP"
+        ]
+    ]
+}

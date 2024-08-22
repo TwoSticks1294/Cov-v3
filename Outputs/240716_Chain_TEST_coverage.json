@@ -1,0 +1,22 @@
+{
+    "240716_Chain_TEST": {
+        "FLT_MCRF_Pol/K.fasta": {
+            "ROSALIND_Score_count": 1,
+            "Perfect_coverage_count": 0,
+            "Coverage_with_one_mismatch_count": 1,
+            "Coverage_3_count": 1,
+            "Coverage_5_count": 1,
+            "Coverage_with_one_mismatch_per_assay_count": 1,
+            "Total_sequences": 1
+        },
+        "FLT_MCRF_Pol/L.fasta": {
+            "ROSALIND_Score_count": 3,
+            "Perfect_coverage_count": 3,
+            "Coverage_with_one_mismatch_count": 3,
+            "Coverage_3_count": 3,
+            "Coverage_5_count": 3,
+            "Coverage_with_one_mismatch_per_assay_count": 3,
+            "Total_sequences": 3
+        }
+    }
+}

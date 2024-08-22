@@ -1,0 +1,3499 @@
+{
+    "240716_Chain_TEST": {
+        "FLT_MCRF_Pol/K.fasta": {
+            "K.CM.96.96CM_MP535.AJ249239": {
+                "Chain_assay3": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 16,
+                        "Best_Position": 2658,
+                        "Mismatches": [
+                            [
+                                2660,
+                                13,
+                                "C",
+                                "T"
+                            ],
+                            [
+                                2663,
+                                10,
+                                "A",
+                                "G"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "GTACTGCTGTCTTAAG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 3,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 2699,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCCCAATCCCCCCTTTTCTTTTA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 20,
+                        "Best_Position": 2676,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "ATGGCAGTATTCATYCACAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2640,
+                        "Mismatches": [
+                            [
+                                2642,
+                                2,
+                                "G",
+                                "A"
+                            ],
+                            [
+                                2648,
+                                8,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "AGAGAWCAAGCTGAAC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 1,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 23,
+                        "Best_Position": 2571,
+                        "Mismatches": [
+                            [
+                                2585,
+                                14,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TACAATCCCCAAAGTCAAGGAGT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 34,
+                        "Best_Position": 2598,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CTATRATTTTCTTTAATTCTTTATTCATAGATTC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay4": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 21,
+                        "Best_Position": 2317,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AATCTARTTGCCATATYCCTG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 2367,
+                        "Mismatches": [
+                            [
+                                2387,
+                                2,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CCACTRGCYACATGRACTGCTAC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 18,
+                        "Best_Position": 2340,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "ACACATYTAGAAGGAAAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2301,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CAAGTAGACTGTAGTC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 23,
+                        "Best_Position": 2253,
+                        "Mismatches": [
+                            [
+                                2267,
+                                14,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "GTRGCYAGCTGTGATAAATGTCA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 23,
+                        "Best_Position": 2278,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCCATGYATGGCTTCYCCTTTTA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay7": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 16,
+                        "Best_Position": 1738,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCTAACTGRTACCATA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 22,
+                        "Best_Position": 1785,
+                        "Mismatches": [
+                            [
+                                1787,
+                                19,
+                                "C",
+                                "T"
+                            ],
+                            [
+                                1803,
+                                3,
+                                "C",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "TATTAGCTGCCCCATCTACATA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 3,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 20,
+                        "Best_Position": 1758,
+                        "Mismatches": [
+                            [
+                                1772,
+                                14,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "GARCCCATARYAGGAGCAGA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2640,
+                        "Mismatches": [
+                            [
+                                2642,
+                                2,
+                                "G",
+                                "A"
+                            ],
+                            [
+                                2648,
+                                8,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "AGAGAWCAAGCTGAAC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 1,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 22,
+                        "Best_Position": 1663,
+                        "Mismatches": [
+                            [
+                                1676,
+                                13,
+                                "A",
+                                "S"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CATGGTGGACAGASTATTGGCA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 18,
+                        "Best_Position": 1689,
+                        "Mismatches": [
+                            [
+                                1697,
+                                9,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CCAYTCAGGAATCCAGGT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    }
+                ],
+                "Chain_assay8": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 26,
+                        "Best_Position": 1470,
+                        "Mismatches": [
+                            [
+                                1487,
+                                8,
+                                "A",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TCTTGRTAAATTTGATATGTCCATTG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 21,
+                        "Best_Position": 1541,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TTTACATCATTAGTGTGGGCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 19,
+                        "Best_Position": 1512,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AARACAGGRAARTATGCAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 27,
+                        "Best_Position": 1438,
+                        "Mismatches": [
+                            [
+                                1464,
+                                26,
+                                "A",
+                                "C"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TAATAGCAGAARTACAGAARCARGGGC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 3,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 22,
+                        "Best_Position": 1389,
+                        "Mismatches": [
+                            [
+                                1400,
+                                11,
+                                "G",
+                                "A"
+                            ],
+                            [
+                                1406,
+                                17,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "ATTCTAAAAGAACCWGTACATG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 3,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 20,
+                        "Best_Position": 1416,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCTTTTGATGGGTCATAATA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay10": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 14,
+                        "Best_Position": 1218,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCATTGACAGTCCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 20,
+                        "Best_Position": 1257,
+                        "Mismatches": [
+                            [
+                                1271,
+                                5,
+                                "A",
+                                "G"
+                            ],
+                            [
+                                1274,
+                                2,
+                                "A",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "TAAATCTGACTTGCCCAATT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 1,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 22,
+                        "Best_Position": 1232,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TATACAGAAGTTAGTRGGAAAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 20,
+                        "Best_Position": 1176,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AAATGGACAGTVCAGCCTAT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 20,
+                        "Best_Position": 1125,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CATCAGAAAGAACCYCCATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 20,
+                        "Best_Position": 1149,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TGGAGYTCATAYCCCATCCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay12": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 20,
+                        "Best_Position": 891,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGCACATTGTACTGATATCT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 951,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GGCTCTAAGATTTTTGTCATGCT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 25,
+                        "Best_Position": 919,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GATGGAAAGGATCACCAGCAATATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 17,
+                        "Best_Position": 870,
+                        "Mismatches": [
+                            [
+                                878,
+                                8,
+                                "A",
+                                "G"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "AACAATGAGACACCAGG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 27,
+                        "Best_Position": 801,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GATGCATATTTTTCAGTYCCYTTAGAT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 21,
+                        "Best_Position": 847,
+                        "Mismatches": [
+                            [
+                                857,
+                                10,
+                                "T",
+                                "C"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TACTAGGTATGGTGAATGCAG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay14": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 17,
+                        "Best_Position": 501,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCATCCATTCCTGGCTT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 25,
+                        "Best_Position": 542,
+                        "Mismatches": [
+                            [
+                                542,
+                                24,
+                                "A",
+                                "G"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TAATGCTTTTATTTTTTCTTCTGTC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 3,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 19,
+                        "Best_Position": 519,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCAAARGTYAAACAATGGC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 20,
+                        "Best_Position": 471,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGTCCTATTGARACTGTACC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 24,
+                        "Best_Position": 400,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GACCTACRCCTGTCAACATAATTG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 18,
+                        "Best_Position": 433,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "ARCCAAKCTGAGTCAACA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ]
+            }
+        },
+        "FLT_MCRF_Pol/L.fasta": {
+            "L.CD.01.L_CG_0018a_01.MN271384": {
+                "Chain_assay3": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 16,
+                        "Best_Position": 2655,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GTACTGCTGTCTTAAG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 2696,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCCCAATCCCCCCTTTTCTTTTA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 20,
+                        "Best_Position": 2673,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "ATGGCAGTATTCATYCACAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2637,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGAGAWCAAGCTGAAC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 23,
+                        "Best_Position": 2568,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TACAATCCCCAAAGTCAAGGAGT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 34,
+                        "Best_Position": 2595,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CTATRATTTTCTTTAATTCTTTATTCATAGATTC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay4": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 21,
+                        "Best_Position": 2314,
+                        "Mismatches": [
+                            [
+                                2333,
+                                1,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "AATCTARTTGCCATATYCCTG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 2364,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCACTRGCYACATGRACTGCTAC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 18,
+                        "Best_Position": 2337,
+                        "Mismatches": [
+                            [
+                                2342,
+                                5,
+                                "C",
+                                "T"
+                            ],
+                            [
+                                2348,
+                                11,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "ACACATYTAGAAGGAAAA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 1,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2298,
+                        "Mismatches": [
+                            [
+                                2309,
+                                11,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CAAGTAGACTGTAGTC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 2,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 23,
+                        "Best_Position": 2250,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GTRGCYAGCTGTGATAAATGTCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 23,
+                        "Best_Position": 2275,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCCATGYATGGCTTCYCCTTTTA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay7": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 16,
+                        "Best_Position": 1735,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCTAACTGRTACCATA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 22,
+                        "Best_Position": 1782,
+                        "Mismatches": [
+                            [
+                                1801,
+                                2,
+                                "T",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TATTAGCTGCCCCATCTACATA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 20,
+                        "Best_Position": 1755,
+                        "Mismatches": [
+                            [
+                                1764,
+                                9,
+                                "C",
+                                "R"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "GARCCCATARYAGGAGCAGA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2637,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGAGAWCAAGCTGAAC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 22,
+                        "Best_Position": 1660,
+                        "Mismatches": [
+                            [
+                                1669,
+                                9,
+                                "T",
+                                "C"
+                            ],
+                            [
+                                1670,
+                                10,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "CATGGTGGACAGASTATTGGCA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 3,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 18,
+                        "Best_Position": 1686,
+                        "Mismatches": [
+                            [
+                                1694,
+                                9,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CCAYTCAGGAATCCAGGT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    }
+                ],
+                "Chain_assay8": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 26,
+                        "Best_Position": 1467,
+                        "Mismatches": [
+                            [
+                                1473,
+                                19,
+                                "T",
+                                "A"
+                            ],
+                            [
+                                1490,
+                                2,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "TCTTGRTAAATTTGATATGTCCATTG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 1,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 21,
+                        "Best_Position": 1538,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TTTACATCATTAGTGTGGGCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 19,
+                        "Best_Position": 1509,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AARACAGGRAARTATGCAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 27,
+                        "Best_Position": 1435,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TAATAGCAGAARTACAGAARCARGGGC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 22,
+                        "Best_Position": 1386,
+                        "Mismatches": [
+                            [
+                                1400,
+                                14,
+                                "G",
+                                "W"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "ATTCTAAAAGAACCWGTACATG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 20,
+                        "Best_Position": 1413,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCTTTTGATGGGTCATAATA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay10": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 14,
+                        "Best_Position": 1215,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCATTGACAGTCCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 20,
+                        "Best_Position": 1254,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TAAATCTGACTTGCCCAATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 22,
+                        "Best_Position": 1229,
+                        "Mismatches": [
+                            [
+                                1229,
+                                0,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TATACAGAAGTTAGTRGGAAAA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 20,
+                        "Best_Position": 1173,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AAATGGACAGTVCAGCCTAT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 20,
+                        "Best_Position": 1122,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CATCAGAAAGAACCYCCATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 20,
+                        "Best_Position": 1146,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TGGAGYTCATAYCCCATCCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay12": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 20,
+                        "Best_Position": 888,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGCACATTGTACTGATATCT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 948,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GGCTCTAAGATTTTTGTCATGCT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 25,
+                        "Best_Position": 916,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GATGGAAAGGATCACCAGCAATATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 17,
+                        "Best_Position": 867,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AACAATGAGACACCAGG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 27,
+                        "Best_Position": 798,
+                        "Mismatches": [
+                            [
+                                818,
+                                20,
+                                "G",
+                                "Y"
+                            ],
+                            [
+                                822,
+                                24,
+                                "C",
+                                "G"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "GATGCATATTTTTCAGTYCCYTTAGAT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 3,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 21,
+                        "Best_Position": 844,
+                        "Mismatches": [
+                            [
+                                848,
+                                16,
+                                "C",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TACTAGGTATGGTGAATGCAG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 2,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay14": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 17,
+                        "Best_Position": 498,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCATCCATTCCTGGCTT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 25,
+                        "Best_Position": 539,
+                        "Mismatches": [
+                            [
+                                561,
+                                2,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TAATGCTTTTATTTTTTCTTCTGTC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 19,
+                        "Best_Position": 516,
+                        "Mismatches": [
+                            [
+                                524,
+                                8,
+                                "G",
+                                "Y"
+                            ],
+                            [
+                                530,
+                                14,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "CCAAARGTYAAACAATGGC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 3,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 20,
+                        "Best_Position": 468,
+                        "Mismatches": [
+                            [
+                                473,
+                                5,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "AGTCCTATTGARACTGTACC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 24,
+                        "Best_Position": 397,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GACCTACRCCTGTCAACATAATTG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 18,
+                        "Best_Position": 430,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "ARCCAAKCTGAGTCAACA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ]
+            },
+            "L.CD.83.83CD003_Z3.AF286236": {
+                "Chain_assay3": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 16,
+                        "Best_Position": 2661,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GTACTGCTGTCTTAAG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 2702,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCCCAATCCCCCCTTTTCTTTTA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 20,
+                        "Best_Position": 2679,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "ATGGCAGTATTCATYCACAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2643,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGAGAWCAAGCTGAAC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 23,
+                        "Best_Position": 2574,
+                        "Mismatches": [
+                            [
+                                2588,
+                                14,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TACAATCCCCAAAGTCAAGGAGT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 34,
+                        "Best_Position": 2601,
+                        "Mismatches": [
+                            [
+                                2606,
+                                28,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CTATRATTTTCTTTAATTCTTTATTCATAGATTC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay4": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 21,
+                        "Best_Position": 2320,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AATCTARTTGCCATATYCCTG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 2370,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCACTRGCYACATGRACTGCTAC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 18,
+                        "Best_Position": 2343,
+                        "Mismatches": [
+                            [
+                                2348,
+                                5,
+                                "C",
+                                "T"
+                            ],
+                            [
+                                2354,
+                                11,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "ACACATYTAGAAGGAAAA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 1,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2304,
+                        "Mismatches": [
+                            [
+                                2315,
+                                11,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CAAGTAGACTGTAGTC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 2,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 23,
+                        "Best_Position": 2256,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GTRGCYAGCTGTGATAAATGTCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 23,
+                        "Best_Position": 2281,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCCATGYATGGCTTCYCCTTTTA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay7": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 16,
+                        "Best_Position": 1741,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCTAACTGRTACCATA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 22,
+                        "Best_Position": 1788,
+                        "Mismatches": [
+                            [
+                                1808,
+                                1,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TATTAGCTGCCCCATCTACATA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 20,
+                        "Best_Position": 1761,
+                        "Mismatches": [
+                            [
+                                1763,
+                                2,
+                                "C",
+                                "R"
+                            ],
+                            [
+                                1772,
+                                11,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "GARCCCATARYAGGAGCAGA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 1,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2643,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGAGAWCAAGCTGAAC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 22,
+                        "Best_Position": 1666,
+                        "Mismatches": [
+                            [
+                                1679,
+                                13,
+                                "T",
+                                "S"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CATGGTGGACAGASTATTGGCA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 18,
+                        "Best_Position": 1692,
+                        "Mismatches": [
+                            [
+                                1700,
+                                9,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CCAYTCAGGAATCCAGGT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    }
+                ],
+                "Chain_assay8": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 26,
+                        "Best_Position": 1473,
+                        "Mismatches": [
+                            [
+                                1479,
+                                19,
+                                "T",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TCTTGRTAAATTTGATATGTCCATTG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 21,
+                        "Best_Position": 1544,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TTTACATCATTAGTGTGGGCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 19,
+                        "Best_Position": 1515,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AARACAGGRAARTATGCAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 27,
+                        "Best_Position": 1441,
+                        "Mismatches": [
+                            [
+                                1443,
+                                2,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TAATAGCAGAARTACAGAARCARGGGC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 22,
+                        "Best_Position": 1392,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "ATTCTAAAAGAACCWGTACATG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 20,
+                        "Best_Position": 1419,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCTTTTGATGGGTCATAATA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay10": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 14,
+                        "Best_Position": 1221,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCATTGACAGTCCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 20,
+                        "Best_Position": 1260,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TAAATCTGACTTGCCCAATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 22,
+                        "Best_Position": 1235,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TATACAGAAGTTAGTRGGAAAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 20,
+                        "Best_Position": 1179,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AAATGGACAGTVCAGCCTAT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 20,
+                        "Best_Position": 1128,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CATCAGAAAGAACCYCCATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 20,
+                        "Best_Position": 1152,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TGGAGYTCATAYCCCATCCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay12": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 20,
+                        "Best_Position": 894,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGCACATTGTACTGATATCT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 954,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GGCTCTAAGATTTTTGTCATGCT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 25,
+                        "Best_Position": 922,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GATGGAAAGGATCACCAGCAATATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 17,
+                        "Best_Position": 873,
+                        "Mismatches": [
+                            [
+                                875,
+                                2,
+                                "T",
+                                "C"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "AACAATGAGACACCAGG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 27,
+                        "Best_Position": 804,
+                        "Mismatches": [
+                            [
+                                824,
+                                20,
+                                "G",
+                                "Y"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "GATGCATATTTTTCAGTYCCYTTAGAT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 21,
+                        "Best_Position": 850,
+                        "Mismatches": [
+                            [
+                                854,
+                                16,
+                                "C",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TACTAGGTATGGTGAATGCAG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 2,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay14": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 17,
+                        "Best_Position": 504,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCATCCATTCCTGGCTT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 25,
+                        "Best_Position": 545,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TAATGCTTTTATTTTTTCTTCTGTC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 19,
+                        "Best_Position": 522,
+                        "Mismatches": [
+                            [
+                                530,
+                                8,
+                                "G",
+                                "Y"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CCAAARGTYAAACAATGGC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 20,
+                        "Best_Position": 474,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGTCCTATTGARACTGTACC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 24,
+                        "Best_Position": 403,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GACCTACRCCTGTCAACATAATTG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 18,
+                        "Best_Position": 436,
+                        "Mismatches": [
+                            [
+                                446,
+                                7,
+                                "A",
+                                "G"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "ARCCAAKCTGAGTCAACA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ]
+            },
+            "L.CD.90.90CD121E12.AF457101": {
+                "Chain_assay3": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 16,
+                        "Best_Position": 2658,
+                        "Mismatches": [
+                            [
+                                2660,
+                                13,
+                                "C",
+                                "T"
+                            ],
+                            [
+                                2672,
+                                1,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "GTACTGCTGTCTTAAG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 3,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 2699,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCCCAATCCCCCCTTTTCTTTTA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 20,
+                        "Best_Position": 2676,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "ATGGCAGTATTCATYCACAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2640,
+                        "Mismatches": [
+                            [
+                                2645,
+                                5,
+                                "G",
+                                "W"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "AGAGAWCAAGCTGAAC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 23,
+                        "Best_Position": 2571,
+                        "Mismatches": [
+                            [
+                                2579,
+                                8,
+                                "T",
+                                "C"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TACAATCCCCAAAGTCAAGGAGT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 34,
+                        "Best_Position": 2598,
+                        "Mismatches": [
+                            [
+                                2603,
+                                28,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CTATRATTTTCTTTAATTCTTTATTCATAGATTC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay4": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 21,
+                        "Best_Position": 2317,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AATCTARTTGCCATATYCCTG",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 2367,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCACTRGCYACATGRACTGCTAC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 18,
+                        "Best_Position": 2340,
+                        "Mismatches": [
+                            [
+                                2345,
+                                5,
+                                "C",
+                                "T"
+                            ],
+                            [
+                                2351,
+                                11,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "ACACATYTAGAAGGAAAA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 1,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2301,
+                        "Mismatches": [
+                            [
+                                2312,
+                                11,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CAAGTAGACTGTAGTC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 2,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 23,
+                        "Best_Position": 2253,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GTRGCYAGCTGTGATAAATGTCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 23,
+                        "Best_Position": 2278,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCCATGYATGGCTTCYCCTTTTA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay7": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 16,
+                        "Best_Position": 1738,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCTAACTGRTACCATA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 22,
+                        "Best_Position": 1785,
+                        "Mismatches": [
+                            [
+                                1804,
+                                2,
+                                "G",
+                                "A"
+                            ],
+                            [
+                                1805,
+                                1,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "TATTAGCTGCCCCATCTACATA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 1,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 20,
+                        "Best_Position": 1758,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GARCCCATARYAGGAGCAGA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 16,
+                        "Best_Position": 2640,
+                        "Mismatches": [
+                            [
+                                2645,
+                                5,
+                                "G",
+                                "W"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "AGAGAWCAAGCTGAAC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 22,
+                        "Best_Position": 1663,
+                        "Mismatches": [
+                            [
+                                1671,
+                                8,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CATGGTGGACAGASTATTGGCA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 18,
+                        "Best_Position": 1689,
+                        "Mismatches": [
+                            [
+                                1697,
+                                9,
+                                "C",
+                                "T"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CCAYTCAGGAATCCAGGT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": false,
+                        "Primers_Ordered_Correctly": false
+                    }
+                ],
+                "Chain_assay8": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 26,
+                        "Best_Position": 1470,
+                        "Mismatches": [
+                            [
+                                1476,
+                                19,
+                                "T",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TCTTGRTAAATTTGATATGTCCATTG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 21,
+                        "Best_Position": 1541,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TTTACATCATTAGTGTGGGCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 19,
+                        "Best_Position": 1512,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AARACAGGRAARTATGCAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 27,
+                        "Best_Position": 1438,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TAATAGCAGAARTACAGAARCARGGGC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 22,
+                        "Best_Position": 1389,
+                        "Mismatches": [
+                            [
+                                1395,
+                                6,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "ATTCTAAAAGAACCWGTACATG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 20,
+                        "Best_Position": 1416,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCTTTTGATGGGTCATAATA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay10": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 14,
+                        "Best_Position": 1218,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TCATTGACAGTCCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 20,
+                        "Best_Position": 1257,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TAAATCTGACTTGCCCAATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 22,
+                        "Best_Position": 1232,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TATACAGAAGTTAGTRGGAAAA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 20,
+                        "Best_Position": 1176,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AAATGGACAGTVCAGCCTAT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 20,
+                        "Best_Position": 1125,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CATCAGAAAGAACCYCCATT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 20,
+                        "Best_Position": 1149,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "TGGAGYTCATAYCCCATCCA",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 1,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay12": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 20,
+                        "Best_Position": 891,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGCACATTGTACTGATATCT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 23,
+                        "Best_Position": 951,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "GGCTCTAAGATTTTTGTCATGCT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 25,
+                        "Best_Position": 919,
+                        "Mismatches": [
+                            [
+                                936,
+                                17,
+                                "T",
+                                "G"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "GATGGAAAGGATCACCAGCAATATT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 17,
+                        "Best_Position": 870,
+                        "Mismatches": [
+                            [
+                                872,
+                                2,
+                                "T",
+                                "C"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "AACAATGAGACACCAGG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 27,
+                        "Best_Position": 801,
+                        "Mismatches": [
+                            [
+                                821,
+                                20,
+                                "G",
+                                "Y"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "GATGCATATTTTTCAGTYCCYTTAGAT",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 21,
+                        "Best_Position": 847,
+                        "Mismatches": [
+                            [
+                                851,
+                                16,
+                                "C",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "TACTAGGTATGGTGAATGCAG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 2,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ],
+                "Chain_assay14": [
+                    {
+                        "Primer_ID": "B1",
+                        "Primer_length": 17,
+                        "Best_Position": 501,
+                        "Mismatches": [],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "CCATCCATTCCTGGCTT",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "B2",
+                        "Primer_length": 25,
+                        "Best_Position": 542,
+                        "Mismatches": [
+                            [
+                                542,
+                                24,
+                                "A",
+                                "G"
+                            ],
+                            [
+                                554,
+                                12,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 2,
+                        "Primer_Sequence": "TAATGCTTTTATTTTTTCTTCTGTC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 0,
+                        "Coverage_3": 0,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 4,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "BL",
+                        "Primer_length": 19,
+                        "Best_Position": 519,
+                        "Mismatches": [
+                            [
+                                527,
+                                8,
+                                "A",
+                                "Y"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "CCAAARGTYAAACAATGGC",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F1",
+                        "Primer_length": 20,
+                        "Best_Position": 471,
+                        "Mismatches": [],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 0,
+                        "Primer_Sequence": "AGTCCTATTGARACTGTACC",
+                        "Perfect_coverage": 1,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "F2",
+                        "Primer_length": 24,
+                        "Best_Position": 400,
+                        "Mismatches": [
+                            [
+                                401,
+                                1,
+                                "G",
+                                "A"
+                            ]
+                        ],
+                        "Alignment_Type": "primer",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "GACCTACRCCTGTCAACATAATTG",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 1,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 0,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    },
+                    {
+                        "Primer_ID": "FL",
+                        "Primer_length": 18,
+                        "Best_Position": 433,
+                        "Mismatches": [
+                            [
+                                437,
+                                13,
+                                "A",
+                                "G"
+                            ]
+                        ],
+                        "Alignment_Type": "RC",
+                        "Num_Mismatches": 1,
+                        "Primer_Sequence": "ARCCAAKCTGAGTCAACA",
+                        "Perfect_coverage": 0,
+                        "Coverage_with_one_mismatch": 1,
+                        "Coverage_3": 1,
+                        "Coverage_5": 0,
+                        "Coverage_with_one_mismatch_per_assay": 0,
+                        "ROSALIND_Score": 2,
+                        "Primers_Close_Enough": true,
+                        "Primers_Ordered_Correctly": true
+                    }
+                ]
+            }
+        }
+    }
+}
